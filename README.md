@@ -1,1 +1,3 @@
-# Tarea_3
+Texto = "Hola Mundo"
+print(Texto)
+type (Texto)
